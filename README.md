@@ -20,3 +20,6 @@ All simulations run locally on your device.
 
 ## Developer
 Michael C. Marone
+
+## Copyright
+© 2026 Michael C. Marone
