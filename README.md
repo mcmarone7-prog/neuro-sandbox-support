@@ -22,4 +22,4 @@ All simulations run locally on your device.
 Michael C. Marone
 
 ## Copyright
-© 2026 Michael C. Marone
+© 2026 Michael C. Marone. All Rights Reserved.
